@@ -1,0 +1,1 @@
+[{"id": 1, "name": "tiger", "price": 21000}, {"id": 2, "name": "heniken", "price": 25000}, {"id": 3, "name": "cocacola", "price": 20000}, {"id": 4, "name": "pepsi", "price": 20000}, {"id": 5, "name": "aqua", "price": 15000}]
